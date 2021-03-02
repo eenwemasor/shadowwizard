@@ -1,0 +1,19 @@
+{
+  "name": "shadow-wizzard-e",
+  "version": "1.0.0",
+  "description": "awesome shadow handler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enwemasor1995/shadowwizard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enwemasor1995/shadowwizard/issues"
+  },
+  "homepage": "https://github.com/enwemasor1995/shadowwizard#readme"
+}

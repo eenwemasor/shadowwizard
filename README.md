@@ -1,10 +1,12 @@
 Get perfect shadow for you divs
 
-#install
+# install
 
-npm i shadowwizzard -save
-or
-yarn add shadowwizzard
+`npm i shadowwizzard -save `
+
+using yarn
+
+`yarn add shadowwizzard`
 
 ```
 import {shadowwizard} from 'shadowwizard'
